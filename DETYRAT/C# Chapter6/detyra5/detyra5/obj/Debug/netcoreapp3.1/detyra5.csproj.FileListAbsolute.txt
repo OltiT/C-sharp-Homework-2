@@ -1,0 +1,13 @@
+C:\Users\pucci\Desktop\Strukturat e te dhenave chapters\C# Chapter6\detyra5\detyra5\bin\Debug\netcoreapp3.1\detyra5.exe
+C:\Users\pucci\Desktop\Strukturat e te dhenave chapters\C# Chapter6\detyra5\detyra5\bin\Debug\netcoreapp3.1\detyra5.deps.json
+C:\Users\pucci\Desktop\Strukturat e te dhenave chapters\C# Chapter6\detyra5\detyra5\bin\Debug\netcoreapp3.1\detyra5.runtimeconfig.json
+C:\Users\pucci\Desktop\Strukturat e te dhenave chapters\C# Chapter6\detyra5\detyra5\bin\Debug\netcoreapp3.1\detyra5.runtimeconfig.dev.json
+C:\Users\pucci\Desktop\Strukturat e te dhenave chapters\C# Chapter6\detyra5\detyra5\bin\Debug\netcoreapp3.1\detyra5.dll
+C:\Users\pucci\Desktop\Strukturat e te dhenave chapters\C# Chapter6\detyra5\detyra5\bin\Debug\netcoreapp3.1\detyra5.pdb
+C:\Users\pucci\Desktop\Strukturat e te dhenave chapters\C# Chapter6\detyra5\detyra5\obj\Debug\netcoreapp3.1\detyra5.csprojAssemblyReference.cache
+C:\Users\pucci\Desktop\Strukturat e te dhenave chapters\C# Chapter6\detyra5\detyra5\obj\Debug\netcoreapp3.1\detyra5.AssemblyInfoInputs.cache
+C:\Users\pucci\Desktop\Strukturat e te dhenave chapters\C# Chapter6\detyra5\detyra5\obj\Debug\netcoreapp3.1\detyra5.AssemblyInfo.cs
+C:\Users\pucci\Desktop\Strukturat e te dhenave chapters\C# Chapter6\detyra5\detyra5\obj\Debug\netcoreapp3.1\detyra5.csproj.CoreCompileInputs.cache
+C:\Users\pucci\Desktop\Strukturat e te dhenave chapters\C# Chapter6\detyra5\detyra5\obj\Debug\netcoreapp3.1\detyra5.dll
+C:\Users\pucci\Desktop\Strukturat e te dhenave chapters\C# Chapter6\detyra5\detyra5\obj\Debug\netcoreapp3.1\detyra5.pdb
+C:\Users\pucci\Desktop\Strukturat e te dhenave chapters\C# Chapter6\detyra5\detyra5\obj\Debug\netcoreapp3.1\detyra5.genruntimeconfig.cache

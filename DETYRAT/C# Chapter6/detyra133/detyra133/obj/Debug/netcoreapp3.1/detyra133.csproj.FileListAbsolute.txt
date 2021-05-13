@@ -1,0 +1,4 @@
+C:\Users\pucci\Desktop\Strukturat e te dhenave chapters\C# Chapter6\detyra133\detyra133\obj\Debug\netcoreapp3.1\detyra133.csprojAssemblyReference.cache
+C:\Users\pucci\Desktop\Strukturat e te dhenave chapters\C# Chapter6\detyra133\detyra133\obj\Debug\netcoreapp3.1\detyra133.AssemblyInfoInputs.cache
+C:\Users\pucci\Desktop\Strukturat e te dhenave chapters\C# Chapter6\detyra133\detyra133\obj\Debug\netcoreapp3.1\detyra133.AssemblyInfo.cs
+C:\Users\pucci\Desktop\Strukturat e te dhenave chapters\C# Chapter6\detyra133\detyra133\obj\Debug\netcoreapp3.1\detyra133.csproj.CoreCompileInputs.cache
